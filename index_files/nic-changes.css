@@ -1,0 +1,64 @@
+ul, li {
+  list-style: none;
+}
+.slide .small li {
+  font-size: 20px !important;
+}
+
+.slide .small li:before {
+  font-size: 35px !important;
+}
+
+.slide h1 {
+  margin-bottom: 20px;
+}
+
+.slide h2 {
+  font-size: 19px;
+  font-weight: bold;
+}
+
+.slide h3 {
+  font-size: 17px;
+}
+
+.slide p {
+  font-size: 15px;
+}
+
+#slide-0-1 {
+  overflow: hidden;
+}
+
+.left {
+  float: left;
+  width: 50%;
+}
+
+.right {
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+
+.right h2 {
+  font-size: 30px;
+}
+
+.slide pre {
+  font-size: 16px;
+  margin-bottom: 25px;
+}
+
+.slide p {
+  margin-bottom: 25px;
+}
+
+.rails_description {
+  color: #cc0000;
+  text-align: center;
+  font-size: 30px !important;
+  margin-bottom: 15px;
+}
+
+
